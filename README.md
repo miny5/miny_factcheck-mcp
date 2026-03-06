@@ -29,7 +29,7 @@
 ### Step 1. 저장소 다운로드
 
 ```bash
-git clone https://github.com/sieun9711/miny_factcheck-mcp.git
+git clone https://github.com/miny5/miny_factcheck-mcp.git
 cd miny_factcheck-mcp
 ```
 
